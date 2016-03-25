@@ -1,3 +1,9 @@
+
+> ###Notice
+> 
+
+> You should test this app with a Chromecast device plugged into your TV and on the same network
+
 #How it works
 
 
